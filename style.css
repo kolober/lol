@@ -1,0 +1,42 @@
+body
+{
+background-color: C0C0C0;
+}
+#cotaner
+{
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.rectangle
+{
+  width: 960px;
+ max-height: 50px;
+  font-family: 'Indie Flower', cursive
+  margin: 20px;
+  background-color: red;
+}
+.scuar
+{
+  float: left;
+  width: 440px;
+  min-height: 500px;
+  margin: 20px;
+  background-color: red;
+}
+.scur1
+{
+  float: left;
+  margin: 10px;
+  width: 460px;
+  min-height: 30px;
+  background-color: 00FF00;
+}
+.scur2
+{
+  float: left;
+  margin: 10px;
+  width: 200px;
+  min-height: 166px;
+  background-color: 9900FF;
+}
